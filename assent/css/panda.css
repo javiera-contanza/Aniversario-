@@ -6,9 +6,17 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: #a59391;
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f3e6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  background-image: url('../img/corazonessss.png'); /* Ruta de la imagen de fondo */
+  background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
+  background-position: center center; /* Centra la imagen */
+  background-repeat: no-repeat; /* Evita la repetición de la imagen */
+  background-attachment: fixed; /* Fija la imagen para evitar el movimiento */
 }
-
 
 .container {
   height: 31.25em;
